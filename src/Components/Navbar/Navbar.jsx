@@ -1,4 +1,5 @@
 import React from 'react'
+import './Navbar.css'
 import logo from '../Assets/logo.png'
 import cart_icon from '../Assets/cart_icon.png'
 
@@ -10,7 +11,7 @@ const Navbar = () => {
         <p>SHOPPER</p>
       </div>
       <ul className='nav-menu'>
-        <li>Shop</li>
+        <li>Shop <hr /></li>
         <li>Mens</li>
         <li>Womens</li>
         <li>Kids</li>
