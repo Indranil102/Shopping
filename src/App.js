@@ -6,7 +6,7 @@ import ShopCategory from './Pages/ShopCategory';
 import Cart from './Pages/Cart';
 import LoginSignup from './Pages/LoginSignup';
 import Product from './Pages/Product';
-
+//import Shop from '../src/Pages/shop';
 function App() {
   return (
     <div>
