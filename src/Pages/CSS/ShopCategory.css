@@ -3,3 +3,8 @@
     margin: 30px auto ;
     width: 82%;
 }
+.shopcategory-indexSort{
+    display: flex;
+    margin: 0px 170px;
+    justify-content: space-between;
+}
