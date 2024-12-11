@@ -74,20 +74,24 @@ shopper-ecommerce/
 │   │   ├── Assets.jsx
 │   │   ├── Breadcrum.jsx
 │   │   ├── CartItem.jsx
-│   │   ├── Description.jsx
-│   │   ├── Navbar.js
-│   │   ├── Navbar.js
-│   │   ├── Navbar.js
-│   │   ├── Navbar.js
-│   │   ├── Navbar.js
-│   │   ├── Navbar.js
-│   │   ├── Navbar.js
+│   │   ├── DescriptionBox.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Itemsr.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── NewCollection.jsx
+│   │   ├── NewsLetter.jsx
+│   │   ├── Offers.jsx
+│   │   ├── Popular.jsx
+│   │   ├── ProductDisplay.jsx
+│   │   ├── RelatedProduct.jsx
 │   ├── pages/          # Page components
-│   │   ├── Home.js
-│   │   ├── Mens.js
-│   │   ├── Womens.js
-│   │   ├── Kids.js
-│   │   ├── ProductDetail.js
+│   │   ├── Cart.jsx
+│   │   ├── LoginSignUp.jsx
+│   │   ├── Product.jsx
+│   │   ├── Sop.jsx
+│   │   ├── ShopCategory.jsx
+│   │   ├── CSS
 │   ├── App.js          # Main App component
 │   ├── index.js        # Entry point
 ├── README.md           # Project documentation
