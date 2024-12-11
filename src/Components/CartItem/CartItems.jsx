@@ -38,6 +38,37 @@ const CartItems = () => {
   }
   return null; // Ensures the `map` function returns a valid value
 })}
+<div className="cartitems-down">
+    <div className="cartitems-total">
+        <h1>cart Totals</h1>
+        <div>
+            <div className="cartitems-total-item">
+                <p>SUbtotals</p>
+                <p>${0}</p>
+            </div>
+            <hr />
+
+            <div className="cartitems-total-item">
+                <p>Shipping Fee</p>
+                <p>Free</p>
+            </div>
+            <hr />
+            <div className="cartitems-total-item">
+                <h3>Total</h3>
+                <h3>${0} </h3>
+            </div>
+        </div>
+        <button>PROCEED TO CHECKOUT</button>
+    </div>
+    <div className="cartitems-promocode">
+        <p>IF you have a promo code, Enter it here</p>
+        <div className="cartitems-promobox">
+            <input type="text" placeholder='promo code' />
+            <button>submit</button>
+        </div>
+    </div>
+</div>
+
       
     </div>
   )
