@@ -26,7 +26,7 @@ Ensure you have the following installed on your local development environment:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/shopper-ecommerce.git
+   git clone https://github.com/Indranil102/shopper-ecommerce.git
    cd shopper-ecommerce
    ```
 
@@ -71,8 +71,16 @@ shopper-ecommerce/
 ├── public/             # Public assets
 ├── src/
 │   ├── components/     # Reusable components
-│   │   ├── Header.js
-│   │   ├── Footer.js
+│   │   ├── Assets.jsx
+│   │   ├── Breadcrum.jsx
+│   │   ├── CartItem.jsx
+│   │   ├── Description.jsx
+│   │   ├── Navbar.js
+│   │   ├── Navbar.js
+│   │   ├── Navbar.js
+│   │   ├── Navbar.js
+│   │   ├── Navbar.js
+│   │   ├── Navbar.js
 │   │   ├── Navbar.js
 │   ├── pages/          # Page components
 │   │   ├── Home.js
