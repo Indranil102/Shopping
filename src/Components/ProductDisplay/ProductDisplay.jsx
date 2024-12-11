@@ -33,12 +33,12 @@ const ProductDisplay = (props) => {
             <div className="productdisplay-right-price-new">${product.new_price}</div>
         </div>
         <div className="productdisplay-righ-description">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias enim, veritatis quaerat consequatur quis exercitationem odio. Dolore fugit blanditiis quidem quas commodi, ducimus earum eius quos, dicta perspiciatis numquam autem.
+            A lightWeight, usually knitted, pullover shirt, close-fitting and with a ground necline and short sleeves, worn as a undershirt or outer garment.
 
         </div>
          <dic className="productdisplay-right-size">
             <h1>Select Size</h1>
-            <div className="productdisplay-right-size">
+            <div className="productdisplay-right-sizes">
                 <div>S</div>
                 <div>M</div>
                 <div>L</div>
@@ -48,7 +48,7 @@ const ProductDisplay = (props) => {
          </dic>
          <button>ADD TO CART</button>
          <p className='productdisplay-right-category'><span>Category :</span>Women, T-shirt CropTop</p>
-         <p className='productdisplay-right-category'><span>TAgs :</span>Modern, Latest</p>
+         <p className='productdisplay-right-category'><span>Tags :</span>Modern, Latest</p>
 
 
      </div>
